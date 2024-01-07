@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vnTlVUWeN7o8hXH1p1o7Gq/omtwetXvz6SoqpoRyr4oqn3mPUhWNfdQl2Hf0/FG6pf+z0UFDH0M6sHSHXCk4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oneMi\\OneDrive\\Рабочий стол\\TelegramBot — копия — копия\\TelegramBot\\TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oneMi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\oneMi\\.nuget\\packages\\telegram.bot\\20.0.0-alpha.1\\telegram.bot.20.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}

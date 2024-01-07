@@ -1,0 +1,54 @@
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.AssemblyInfo.cs
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\refint\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.exe
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.deps.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.runtimeconfig.json
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\TelegramBot.pdb
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.csproj.CopyComplete
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\TelegramBot.genruntimeconfig.cache
+C:\Users\oneMi\OneDrive\Рабочий стол\TelegramBot — копия — копия\TelegramBot\obj\Debug\net6.0\ref\TelegramBot.dll
